@@ -11,7 +11,7 @@ public class CloudCiCdDemoApplication {
 
     @RequestMapping("/")
     public String home(){
-        return "Hello Docker World";
+        return "Hello Docker World from Google Cloud";
     }
 
     public static void main(String[] args) {
