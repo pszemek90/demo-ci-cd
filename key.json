@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ci-cd-demo-1",
+  "private_key_id": "420743725fd3505e6508bc2f1c28611ee7f98afc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDLsxpDtaofkEy2\nEMawssFVTdWUvoFQLqWDRpIM6kASWjOnbtldZXwh0fiG1q7niPZKh66qhhOVfpMY\njzt/nxq6wynkheCIxrOIi4L6rEaZZMmJQU7iDCwFyZ7vVhjLLGhXclzYQ/zMC3U7\nJ9/eR5W52g2j6A6uAH5F0+QCNntofCRaZSbsoCHPsfyYPChs2XgQ0yqocwFCWRaO\nLe/fP6OfzhLEksR14gX8M2EfHj9jU8zm35XTBy+3ZpY4WK43Sy3kwTCx5lk84yZZ\nvPNDLaG3wrRL/XVyRiei7V6IdTEzmSLuzPB9utNC7pWfm9jNOxXKTnHAuh2TRm6N\nMbOf+PD/AgMBAAECggEACURZJgpuNmhkrQW/XEuNkxlq5YzzKhgtLHc57r97cbpL\nzkqzNdYHmyxHv66ln1/yQHrCvfxCiNMM0xm1Db3JxARb9AsJJ3/OrCAYsdnDjnfw\n2T8w3QTLvempwt6qWxfmmU/ZHHefWRMOXsYWH7EnBSD/7NyCSnU4SWn13gnnfF3Q\nozubT7S1yZF5Pd/v0MpbG2fFYyYSB7p7H637CLzI4ECT4r/1oEak7av24xlGWUgS\nb9VCY8+GlpwrgBH3fETe7O8VlDMw0aagaXB38ROQ5+DQWGTBn+RABM5ZiYHPA/zZ\np/vXxpPe/AbCh91VzXHWvetd7saZuoXj9lXI8NyJ0QKBgQDyM5yh4F70XRBvI0JS\n/1mfkfTSo6aYH4L7fKAIM6r/Ua6GnMacch0WuHBV7NLaJsZFJsRbt8RuPLZq6EVa\nnedKCEr3l0ZGYJLZJOdLcISgJV/nc5Xn+H1fTJfMtVB5vkrp+c5AOXDbQxdIcLfY\npmVB1XmitnO+OUNqO1SUtf41DwKBgQDXTfVsE+/+q+wODK4hGKb3ClH51YjdPWjx\noD/WWaPfayYaqNzTCILudvz+/58dwDr0VQTBNKP2Dv53c9cWyb5JdCM8TKkAdOWG\nmZrZiJpTO25UXKreFpSg6+AqalFzAAdJlfHfaYpyRt8cMA+wv1vCCCQdoqK3sZ/j\ntykg60/lEQKBgQDX7PF4U6rz2kA7hMita98/5oTIgYOVXYqNoGafyUhqhSy97+kV\nMpsCVX447IByYl0i61PlnOivisrqdpbWGa5Ijyoen6vUNGbW1hKqa+6hQ5DDrIV5\noExNeOBgbUkIsIDjJYUeNteJcr/AIlWU/YuKbMIbMOPxM+YJQEnAppuyOwKBgHiJ\n4dQPWXa4I+E9wiMvXRLDyV9Y6FYMsntMX1EPQIqtv1h/n5nakwsUvNG6pQeP/rGa\nA55zbTQt8tNHnGzap9kR10REGv3xdCsmRiZxrwzYIg3DD7pk4/Mv+4FjopQCuRG+\ni/qraOJPwUtTsQUgLSv1SNr6maTEIiLoAXO3qjQxAoGAMdE8P4kHaZok2KuRtcAK\n++V9OtZhrqbzK1yOsdzwLk2kOidLfm0zufXONpexRTrDTMCtWM/+SlT4l6qzZt+6\niYv6TIw/el5DSPynGvu+A7XzQAN8h2nuFiBqFOblI6Ax+lVSpgqJJcf4toaex2qL\nCbUcawEz+fRblllGvxpQirk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "spring-backend-1@ci-cd-demo-1.iam.gserviceaccount.com",
+  "client_id": "103484020043994499396",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/spring-backend-1%40ci-cd-demo-1.iam.gserviceaccount.com"
+}
